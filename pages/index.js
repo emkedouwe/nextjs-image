@@ -36,9 +36,9 @@ export default function Home() {
         <div style={{position: 'relative', width: '100%', height: '500px'}}>
         <Image
           src="https://images.unsplash.com/flagged/photo-1551706646-9c816bfbff8c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80"
-          //blurDataURL="https://images.unsplash.com/flagged/photo-1551706646-9c816bfbff8c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=10&q=80"
-          //placeholder="blur"
-          layout="responsive"
+          blurDataURL="https://images.unsplash.com/flagged/photo-1551706646-9c816bfbff8c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=10&q=80"
+          placeholder="blur"
+          //layout="responsive"
           width={700}
           height={475}
         />

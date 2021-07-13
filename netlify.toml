@@ -1,2 +1,2 @@
 [build.environment]
-  NEXT_IMAGE_ALLOWED_DOMAINS = "unsplash.com"
+  NEXT_IMAGE_ALLOWED_DOMAINS = "images.unsplash.com"
